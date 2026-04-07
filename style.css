@@ -143,6 +143,7 @@ right:0px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background-attachment:fixed;
   position:fixed;
   align-items: center;
   text-align: center;
