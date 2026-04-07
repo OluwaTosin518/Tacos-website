@@ -58,8 +58,8 @@ nav a{
   color:white;
   text-decoration: none;
   font-weight:bolder;
-  font-size:20px;
-  gap: 10px;
+  font-size:25px;
+  gap:20px;
   
 }
 h1{
@@ -76,7 +76,7 @@ h1{
   font-style:italic ;
   word-spacing: 0px;
   gap:20px;
-  top:100px;
+  top:450px;
   
 }
 .flot{
