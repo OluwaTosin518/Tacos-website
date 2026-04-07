@@ -150,12 +150,15 @@ fieldset{
   
   background:url(pityu/menu2.png);
   background-repeat:no-repeat;
-  padding-bottom:300px;
+  padding-bottom:0px;
   justify-content:center;
   align-items:center;
   text-align:center;
   background-size:cover;
   background-position:center;
+  display:flex;
+  background-attachment:fixed;
+  position:fixed;
 }
 
 .details{
