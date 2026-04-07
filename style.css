@@ -172,7 +172,7 @@ fieldset{
   background-position:center;
   display:flex;
   background-attachment:fixed;
-  position:fixed;
+  position:relative;
 }
 
 .details{
