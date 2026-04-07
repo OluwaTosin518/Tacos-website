@@ -11,19 +11,15 @@
   background:url(pityu/Retaco3.jpg);
   background-repeat:no-repeat;
   background-attachment: fixed;
-  position: relative;
+  position:fixed;
   margin:0;
   color:white;
   background-size: cover;
-  
-  margin:0;
   background-position:center;
-  font:bolder;
   display:flex;
   justify_content:center;
   align-item:centre;
   text-align:centre;
-  gap:20px;
   font-weight: bolder;
   
 }
