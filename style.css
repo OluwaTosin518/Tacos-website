@@ -70,7 +70,7 @@ h1{
 }
 .flot{
   text-align: center;
-padding-top: 400px;
+top: 500px;
   justify-self:center;
 font-size: 30px;
 position:relative;
@@ -99,7 +99,7 @@ right: 160px;
 }
 .pok{
 text-align: center;
-padding-top:520px;
+top:520px;
 font-size: 40px;
 position: fixed;
 display: flex;
