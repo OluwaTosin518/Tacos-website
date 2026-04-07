@@ -223,6 +223,7 @@ fieldset{
   font-size: 23px;
   position: fixed;
   margin-top:160px;
+  color:white;
 }
 h4{
   padding-top: 0px;
@@ -235,6 +236,7 @@ h4{
   font-style: italic;
   position: fixed;
   justify-self: center;
+  color:flash;
 }
 .about{
 background:url(pityu/future1.jpg);
