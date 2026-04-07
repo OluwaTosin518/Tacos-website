@@ -19,9 +19,13 @@
   margin:0;
   background-position:center;
   font:bolder;
- 
-
+  display:flex;
+  justify_content:center;
+  align-item:centre;
+  text-align:centre;
+  gap:20px;
   font-weight: bolder;
+  
 }
 header{
   justify-content: center;
