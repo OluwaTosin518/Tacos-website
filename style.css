@@ -96,8 +96,22 @@ font-weight: bolder;
 align-items: center;
 left:0px;
 right: 160px;
-
 }
+.pok{
+text-align: center;
+padding-top:520px;
+font-size: 40px;
+position: fixed;
+display: flex;
+justify-content:center;
+align-items: center;
+text-align: center;
+
+color:white;
+font-weight: bolder;
+align-items: center;
+left:0px;
+right:0px;}
 
 .poll{
 text-align: center;
