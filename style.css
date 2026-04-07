@@ -70,10 +70,10 @@ h1{
 }
 .flot{
   text-align: center;
-padding-top: 440px;
-
+padding-top: 400px;
+  justify-self:center;
 font-size: 30px;
-position: fixed;
+position:relative;
 display: flex;
 justify-content:center;
 align-items: center;
