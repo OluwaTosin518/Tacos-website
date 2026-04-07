@@ -139,7 +139,7 @@ right:0px;
   color: white;
 }
 .plots{
-  background:url(pityu/menu2.png);
+  background:url(pityu/future1.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -165,7 +165,7 @@ fieldset{
 }
 .hours{
   
-  background:url(pityu/menu2.png);
+  background:url(pityu/future1.png);
   background-repeat:no-repeat;
   padding-bottom:0px;
   justify-self:center;
@@ -234,7 +234,7 @@ h4{
   justify-self: center;
 }
 .about{
-background:url(pityu/menu2.png);
+background:url(pityu/future1.png);
   background-repeat:no-repeat;
   background-attachment: fixed;
   position: relative;
@@ -264,7 +264,7 @@ background:url(pityu/menu2.png);
     
   }
   .design{
-    background:url(pityu/Menu2.png);
+    background:url(pityu/future1.png);
   background-repeat:no-repeat;
   background-attachment: fixed;
   position: relative;
@@ -452,7 +452,7 @@ caption{
     
   
   .Menu{
-    background:url(pityu/menu2.png) ;
+    background:url(pityu/future1.png) ;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
