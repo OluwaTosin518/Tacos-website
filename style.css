@@ -70,7 +70,7 @@ h1{
 }
 .flot{
   text-align: center;
-top: 500px;
+top: 470px;
   justify-self:center;
 font-size: 30px;
 position:relative;
@@ -177,6 +177,7 @@ fieldset{
   position:relative;
   left:0px;
   right:0px;
+  color:white;
   
 }
 
@@ -194,6 +195,7 @@ fieldset{
   white-space: 30px;
   position: fixed;
   margin-top: 220px;
+  color:white;
 
 }
 .dl{
@@ -206,6 +208,7 @@ fieldset{
   justify-self: center;
   position: fixed;
   margin-top: 350px;
+  color:white;
 }
 
 .flash{
