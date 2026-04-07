@@ -147,8 +147,9 @@ right:0px;
   align-items: center;
   text-align: center;
   padding-top: 50px;
+  justify-content:center;
   color: white;
-  
+  display:flex;
   justify-self: center;
 
 }
