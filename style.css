@@ -6,7 +6,7 @@
   margin:0;
   color:white;
   background-size: cover;
-  height: 100vh;
+  min-height: 100vh;
   margin:0;
   background-position:center;
   font:bolder;
@@ -247,7 +247,7 @@ background:url(pityu/future1.jpg);
   margin:0;
   color:white;
   background-size:cover;
-  height: 100%;
+  min-height: 100vh;
   margin:0;
   background-position:center;
   font:bolder;}
@@ -277,7 +277,7 @@ background:url(pityu/future1.jpg);
   margin:0;
   color:white;
   background-size: cover;
-  height: 100%;
+  min-height: 100vh;
   margin:0;
   background-position:center;
   font:bolder;
