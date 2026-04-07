@@ -1,3 +1,12 @@
+
+  @media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+}
+
+
 .home{
   background:url(pityu/Retaco3.jpg);
   background-repeat:no-repeat;
